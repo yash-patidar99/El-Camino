@@ -1,0 +1,21 @@
+.box-shadow{
+    
+    box-shadow:0 0.25rem 0.75rem rgba(0,0,0,.05);
+    }
+        .border-bottom{
+            
+            border-bottom: 1px solid #161616;
+        }    
+        .car-width
+        
+        {
+            max-width: 730px;
+            
+        }
+        #find{
+            
+            border-radius: 20px;
+        }
+.a1{
+    text-decoration: none;
+}
